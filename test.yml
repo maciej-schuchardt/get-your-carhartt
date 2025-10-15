@@ -1,0 +1,7 @@
+test:
+    something: "xd"
+    something2: 23
+test2:
+    - "one"
+    - "two"
+    - "three"

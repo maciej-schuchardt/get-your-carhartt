@@ -1,0 +1,7 @@
+
+# - name: "supersklep"
+#   url: "https://supersklep.pl/kurtki/carhartt-wip/meskie?qs=eyJmaWx0ZXIiOnsidmFyaWFudCI6WyJNIiwiTCJdfX0="
+# - name: "zalando"
+#   url: "https://www.zalando.pl/odziez-meska-kurtki/carhartt__rozmiar-L.M/"
+- name: "carhartt-wip"
+  url : "https://www.carhartt-wip.com/en-de/c/men-jackets-and-coats"
